@@ -13,7 +13,7 @@
 
 ![](https://github.com/Xuhengfeng/wxAuthorize/blob/master/images/修改回调页面域名.PNG)
 
-![](https://github.com/Xuhengfeng/wxAuthorize/blob/master/images/关注测试号.png)
+![](https://github.com/Xuhengfeng/wxAuthorize/blob/master/images/关注测试号.PNG)
 
 ### 2. 启动项目
 
